@@ -11,6 +11,7 @@ export default defineConfig(({ command, mode }) => {
     server: {
       port: 5174,
     },
+    base: "csce-331-team-3-docs",
     resolve: {
       alias: [
         {
