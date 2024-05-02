@@ -11,7 +11,7 @@ export default defineConfig(({ command, mode }) => {
     server: {
       port: 5174,
     },
-    base: "./",
+    base: "/project-3-full-stack-agile-web-902-team-3/",
     resolve: {
       alias: [
         {
